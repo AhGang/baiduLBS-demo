@@ -26,7 +26,7 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
     public LocationClient mLocationClient;
-
+///
     private TextView positionText;
     private MapView mapview;
     private BaiduMap baiduMap;
